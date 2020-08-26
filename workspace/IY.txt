@@ -1,0 +1,1 @@
+{"commandsV":false,"chatsV":false,"whispersV":false,"colorB":0.121568999999999996508570632159,"cmdbarbind":";","Nfriends":true,"Mseconds":"7","colorG":0.121568999999999996508570632159,"aliasSave":[],"suggestionstoggle":true,"JLnotify":true,"colorR":0.121568999999999996508570632159,"cmdprefix":";","allowfriends":true}

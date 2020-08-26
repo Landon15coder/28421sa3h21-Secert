@@ -1,0 +1,1 @@
+{"Aimbot":true,"Tracers":false,"Aim Part":"Head","ESP":true,"Smoothness":"4"}

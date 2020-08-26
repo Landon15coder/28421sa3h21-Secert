@@ -1,0 +1,1 @@
+{"Aimbot":true,"Visuals Color":{"R":108.04464876651763916015625,"G":229.53641116619110107421875,"B":255},"Tracers":true,"ESP":true,"Aim Part":"Head","Smoothness":"6"}

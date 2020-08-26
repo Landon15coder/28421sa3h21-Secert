@@ -1,0 +1,1 @@
+{"Aim Key":"MouseButton1","Aimbot":true,"Aim Part":"Head","ESP":true,"Smoothness":"6"}
